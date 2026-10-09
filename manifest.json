@@ -1,7 +1,7 @@
 {
-  "name": "Puppy's Handbook (Demo)",
-  "short_name": "Puppy Demo",
-  "description": "The complete care handbook, trackers and travel guide for Puppy the Cavoodle.",
+  "name": "Wobbles' Handbook",
+  "short_name": "Wobbles",
+  "description": "The complete care handbook, trackers and travel guide for Wobbles the Cavoodle.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
